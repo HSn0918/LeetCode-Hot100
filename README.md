@@ -1,1 +1,1 @@
-# LeetCode-Hott100
+# LeetCode-Hot100
